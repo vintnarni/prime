@@ -1,5 +1,8 @@
 # prime.sh
 
+> [!WARNING]
+> I no longer have an computer that has NVIDIA graphics card, so i decided to archive the repository for historical reasons, thus no support will be provided.
+
 A really simple script i made in ~30 seconds, (un)licensed under [Unlicense](https://unlicense.org/), to run any application using NVIDIA discrete GPU.
 
 It requires even less typing time and dead simple to remember, no questions asked.
